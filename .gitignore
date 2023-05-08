@@ -45,3 +45,7 @@ bin/
 simWorkspace/
 tmp/
 null
+gen/
+
+build.sc
+.mill-version
